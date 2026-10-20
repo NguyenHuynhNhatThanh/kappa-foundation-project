@@ -1,0 +1,25 @@
+{
+  "source": "Yahoo Finance via yfinance",
+  "retrieved_at_utc": "2026-10-19T15:45:43.446390+00:00",
+  "tickers": [
+    "AAPL",
+    "MSFT",
+    "JPM",
+    "XOM",
+    "JNJ",
+    "PG",
+    "CAT",
+    "AMZN",
+    "NEE",
+    "DIS",
+    "SPY",
+    "IWM"
+  ],
+  "start_inclusive": "2014-12-01",
+  "end_exclusive": "2026-01-01",
+  "interval": "1d",
+  "auto_adjust": true,
+  "actions": false,
+  "yfinance_version": "1.7.0",
+  "note": "CSV stores the downloaded DataFrame; adjusted OHLC fields if returned."
+}

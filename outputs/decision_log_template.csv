@@ -1,0 +1,5 @@
+decision,initial_choice,reason,evidence_that_would_change_it
+Inflation assumption,0.025,Illustrative baseline; case leaves inflation unspecified,Trustee mandate or defensible external inflation scenario
+Growth benchmark,SPY,"Simple, investable, transparent broad US equity comparator",Mandate specifies a different investable policy benchmark
+Risk aversion,5.0,Working value to be compared with lower/higher gamma,"Trustee agreement on loss metric, horizon, and acceptable trade-off"
+Evaluation rule,Frozen weights; monthly total returns; Jan-2023 to Dec-2025,Prevents hindsight re-optimization,Only a formally revised mandate; retain original results

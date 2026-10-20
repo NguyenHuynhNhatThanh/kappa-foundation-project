@@ -1,0 +1,13 @@
+ticker,role,type
+AAPL,Information Technology,Stock
+MSFT,Information Technology,Stock
+JPM,Financials,Stock
+XOM,Energy,Stock
+JNJ,Health Care,Stock
+PG,Consumer Staples,Stock
+CAT,Industrials,Stock
+AMZN,Consumer Discretionary,Stock
+NEE,Utilities,Stock
+DIS,Communication Services,Stock
+SPY,Broad US large-cap equity benchmark,ETF
+IWM,US small-cap equity exposure,ETF

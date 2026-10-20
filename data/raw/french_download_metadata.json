@@ -1,0 +1,15 @@
+{
+  "source": "Kenneth French Data Library",
+  "retrieved_at_utc": "2026-10-19T15:45:47.727221+00:00",
+  "files": [
+    {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_5_Factors_2x3_CSV.zip",
+      "saved_as": "F-F_Research_Data_5_Factors_2x3_CSV.zip"
+    },
+    {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Momentum_Factor_CSV.zip",
+      "saved_as": "F-F_Momentum_Factor_CSV.zip"
+    }
+  ],
+  "units_in_download": "percent per month; converted to decimal in processed data"
+}

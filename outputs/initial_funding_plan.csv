@@ -1,0 +1,4 @@
+asset,face_or_units,initial_cost,contractual_maturity_cashflow,payment_obligation,surplus_at_maturity
+Beta zero-coupon,2400000.0,2214672.0,2400000.0,2400000.0,0.0
+Delta 3.5% coupon,3600000.0,3549852.0,3725999.9999999995,3600000.0,126000.00000000001
+Growth allocation,,6235476.0,,0.0,
